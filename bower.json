@@ -1,0 +1,26 @@
+{
+  "name": "jqueryui-bootstrap-theme4",
+  "description": "This is a drop in JqueryUI theme to match the look of bootstrap 4. Project also allows you to customize the look and feel completely by replacing the bootstrap scss variables to match JQueryUI to your custom bootstrap theme.",
+  "main": "",
+  "authors": [
+    "Vijay Dharap"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "jqueryui",
+    "theme",
+    "configurable",
+    "framework",
+    "web"
+  ],
+  "homepage": "https://github.com/Akir4d/jq-ui-bootstrap4",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
